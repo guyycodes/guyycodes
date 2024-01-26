@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Guy Beals, somtimes I go by my middle name Morgan, both are fine.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Morgan Beals, I go by my first name sometime Guy, both are fine.
 ====================================================================================================================================
 
 Programmer/Developer
