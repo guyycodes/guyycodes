@@ -32,7 +32,7 @@ I am a freelance web developer and AWS certified cloud practitioner with over se
   <a href="https://www.linkedin.com/in/guymorganb/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="http://www.medium.com/guyycodes" target="_blank" rel="noreferrer">
+  <a href="http://www.medium.com/@guyycodes" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
   </a>
   <a href="https://www.youtube.com/@guymorganb/" target="_blank" rel="noreferrer">
