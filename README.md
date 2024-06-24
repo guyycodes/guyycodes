@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Morgan Beals, I go by my first name Guy sometimes, both are fine.
 ====================================================================================================================================
 
-Software Engineer/Developer
+Im just obsessed with learning. 
 --------------------
 
-I am a self employed developer and AWS certified cloud practitioner with over seven years of experience in service management. I specialize in building user-friendly and scalable web applications using a variety of tech stacks. I also have extensive knowledge and skills in cloud computing, project management, stakeholder management, problem-solving, remote teamwork, document auditing, and financial data analysis.
+I am a self employed developer and AWS certified cloud practitioner with seven years of experience in service management. I specialize in building user-friendly and scalable web applications using a variety of tech stacks. I also have knowledge and skills in cloud computing, project management, problem-solving, document auditing, and financial data analysis.
 
-With a focus on software development, I possess hands-on experience with Java, JavaScript, Python, React, React Native, Swift, TypeScript, and web development. My portfolio reflects a proficiency in database management, API integration, and deploying cloud solutions with AWS and Azure. These technical skills are amplified by my proven track record of increasing revenue and fostering team success.
+With a focus on software development, I possess hands-on experience with Java, JavaScript, Python, React, React Native, Swift, TypeScript, and web development. My portfolio reflects knowledge in database management, API development, and deploying cloud solutions with AWS.
 
 *   🌍  I'm based in Texas
 *   ✉️  You can contact me at [guymorganb@gmail.com](mailto:guymorganb@gmail.com)
-*   🧠  I'm learning Fourier Series/Fourier Transform
-*   🤝  I'm open to collaborating on Neural Networks
+*   🧠  I'm learning Ghidra
+*   🤝  I'm open to collaborations
 <img src="https://media.tenor.com/2YQj1-QHrtMAAAAi/vutura-chatbot.gif" height="20%" width="20%" />
   ### Skills 
 <p align="left">
